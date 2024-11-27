@@ -23,22 +23,19 @@
                     <a href="#about" class="nav-link">About</a> 
                 </li>
                 <li>
-                    <a href="https://keybase.io/mfrank" class="nav-link" title="Securely communicate with me">PGP Key</a>
-                </li>
-                <li>
-                    <a href="https://github.com/bluefrg" class="nav-link" title="Code with me on GitHub">
+                    <a href="https://github.com/mikefrank-ca" class="nav-link" title="Code with me on GitHub">
                         <i class="fab fa-github" aria-hidden="true"></i> <span>GitHub</span></a>
                 </li>
                 <li>
-                    <a href="https://facebook.com/micheal.frank" class="nav-link" title="Chat with me on Facebook">
+                    <a href="https://www.facebook.com/mikefrank.ca" class="nav-link" title="Chat with me on Facebook">
                         <i class="fab fa-facebook-f" aria-hidden="true"></i> <span>Facebook</span></a>
                 </li>
                 <li>
-                    <a href="https://ca.linkedin.com/in/michealfrank" class="nav-link" title="Join my network on LinkedIn">
+                    <a href="https://ca.linkedin.com/in/mikefrank-ca" class="nav-link" title="Join my network on LinkedIn">
                         <i class="fab fa-linkedin" aria-hidden="true"></i> <span>LinkedIn</span></a>
                 </li>
                 <li>
-                    <a href="https://instagram.com/bluefrg" class="nav-link" title="See my passion on Instagram">
+                    <a href="https://www.instagram.com/mikefrank.ca" class="nav-link" title="See my passion on Instagram">
                         <i class="fab fa-instagram" aria-hidden="true"></i> <span>Instagram</span></a>
                 </li>
             </ul>
